@@ -1,7 +1,7 @@
 # age-calculator
 Calculate age based on the input date.
 
-## Screenshots/Demo
+## Screenshot
 ![aga calculate](https://github.com/user-attachments/assets/4b1448ec-5f35-4bc7-8e33-42d2723936a5)
 
 ## Features Implemented
